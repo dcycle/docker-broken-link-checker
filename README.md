@@ -4,7 +4,7 @@ Check for broken links with [Broken Link Checker](https://www.npmjs.com/package/
 
 For example:
 
-    docker run -v "$(pwd)"/example:/app/code dcycle/broken-link-checker --help
-    docker run -v "$(pwd)"/example:/app/code dcycle/broken-link-checker .
+    docker run -v "$(pwd)"/example:/app/code dcycle/broken-link-checker:1 --help
+    docker run -v "$(pwd)"/example:/app/code dcycle/broken-link-checker:1 http://example.com -ro
 
 See [this project on the Docker Hub](https://hub.docker.com/r/dcycle/broken-link-checker/).
