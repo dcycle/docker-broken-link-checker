@@ -1,0 +1,13 @@
+---
+version: 2
+jobs:
+  build:
+    # For continuous integration, create a virtual machine with Docker
+    # installed, then run tests on it. This is done on
+    # [CircleCI](https://circleci.com).
+    machine: true
+    steps:
+      - checkout
+      - run:
+          name: Tests
+          command: ./test.sh
