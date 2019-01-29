@@ -1,5 +1,6 @@
-FROM node
+FROM ubuntu
 
-RUN npm install -g broken-link-checker
+RUN apt-get -y update
+RUN apt-get -y install linkchecker
 
-ENTRYPOINT [ "blc" ]
+ENTRYPOINT [ "linkchecker", "-o", "csv" ]
