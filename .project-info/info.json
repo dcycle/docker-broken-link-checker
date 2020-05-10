@@ -1,7 +1,7 @@
 {
   "ci": {
      "badge": {
-       "template": "circle"
+       "template": "circleci"
      }
   }
 }
