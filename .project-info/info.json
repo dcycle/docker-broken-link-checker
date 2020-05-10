@@ -1,7 +1,9 @@
 {
-  "ci": {
-     "badge": {
-       "template": "circleci"
-     }
-  }
+  "ci": [
+    {
+       "badge": {
+         "template": "circleci"
+       }
+    }
+  ]
 }
