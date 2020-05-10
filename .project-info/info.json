@@ -1,5 +1,7 @@
 {
-  ci:
-    badge:
-      template: 'circle',
+  "ci": {
+     "badge": {
+       "template": "circle"
+     }
+  }
 }
