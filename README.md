@@ -1,4 +1,7 @@
-[![CircleCI](https://circleci.com/gh/dcycle/docker-broken-link-checker.svg?style=svg)](https://circleci.com/gh/dcycle/docker-broken-link-checker)
+Dcycle Docker Broken Link Checker 
+-----
+
+[![CircleCI](https://circleci.com/gh/dcycle/docker-broken-link-checker/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/docker-broken-link-checker/tree/master)
 
 Check for broken links with [Link Checker](https://github.com/linkchecker/linkchecker).
 
