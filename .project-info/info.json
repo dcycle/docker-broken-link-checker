@@ -4,6 +4,11 @@
        "badge": {
          "template": "circleci"
        }
+    },
+    {
+      "badge": {
+        "markup": "https://github.com/dcycle/docker-broken-link-checker/blob/master/.project-info/info.json"
+      }
     }
   ]
 }
