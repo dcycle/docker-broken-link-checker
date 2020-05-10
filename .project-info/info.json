@@ -7,7 +7,7 @@
     },
     {
       "badge": {
-        "markup": "https://github.com/dcycle/docker-broken-link-checker/blob/master/.project-info/info.json"
+        "markup": "https://ci.dcycle.com/job/docker-broken-link-checker/badge/icon"
       }
     }
   ]
