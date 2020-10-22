@@ -1,0 +1,14 @@
+{
+  "ci": [
+    {
+       "badge": {
+         "template": "circleci"
+       }
+    },
+    {
+      "badge": {
+        "markup": "https://ci.dcycle.com/job/docker-broken-link-checker/badge/icon"
+      }
+    }
+  ]
+}
