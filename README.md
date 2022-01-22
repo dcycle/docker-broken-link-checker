@@ -26,3 +26,12 @@ The [project has a Dockerfile](https://github.com/linkchecker/linkchecker/blob/m
 * This project automatically outputs as CSV.
 
 See [this project on the Docker Hub](https://hub.docker.com/r/dcycle/broken-link-checker/).
+
+Handy Google Sheets utility to view a report
+-----
+
+You can make a copy [of this handy Google Sheets](https://docs.google.com/spreadsheets/d/1fh6dDf5MFprBGkvyyAJ3FL-ZU1Puy764nYH_zImtcCE/edit?usp=sharing), then:
+
+* in the "raw" tab, import the result (output) of this utility. **Note, you must replace the current sheet AND use a custom delimiter ";"**
+* the "report" tab will show your data in the columns "Page which contains a link", "Link text", "Link target", "Issue".
+
