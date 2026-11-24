@@ -1,7 +1,7 @@
 Dcycle Docker Broken Link Checker
 -----
 
-[![GitHub Actions](https://github.com/dcycle/docker-broken-link-checker/actions/workflows/config.yml/badge.svg)](https://github.com/dcycle/docker-broken-link-checker/actions/workflows/config.yml)
+[![GitHub Actions](https://github.com/dcycle/docker-broken-link-checker/actions/workflows/config.yml/badge.svg)](../../actions/workflows/config.yml)
 
 
 Check for broken links with [Link Checker](https://github.com/linkchecker/linkchecker).
