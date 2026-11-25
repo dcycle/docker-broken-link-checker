@@ -1,7 +1,8 @@
 Dcycle Docker Broken Link Checker
 -----
 
-[![CircleCI](https://circleci.com/gh/dcycle/docker-broken-link-checker/tree/master.svg?style=svg)](https://circleci.com/gh/dcycle/docker-broken-link-checker/tree/master)
+[![GitHub Actions](https://github.com/dcycle/docker-broken-link-checker/actions/workflows/config.yml/badge.svg)](../../actions/workflows/config.yml)
+
 
 Check for broken links with [Link Checker](https://github.com/linkchecker/linkchecker).
 
@@ -34,4 +35,3 @@ You can make a copy [of this handy Google Sheets](https://docs.google.com/spread
 
 * in the "raw" tab, import the result (output) of this utility. **Note, you must replace the current sheet AND use a custom delimiter ";"**
 * the "report" tab will show your data in the columns "Page which contains a link", "Link text", "Link target", "Issue".
-

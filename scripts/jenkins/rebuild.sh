@@ -15,7 +15,7 @@ fi
 # Create a droplet
 DROPLET_NAME=docker-broken-link-checker
 
-doctl compute droplet create "$DROPLET_NAME" --size 4gb --image ubuntu-20-04-x64 --ssh-keys "$DIGITALOCEAN_SSH_KEY"
+doctl compute droplet create "$DROPLET_NAME" --size 4gb --image ubuntu-24-04-x64 --ssh-keys "$DIGITALOCEAN_SSH_KEY"
 
 sleep 45
 
